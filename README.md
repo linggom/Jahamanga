@@ -13,7 +13,7 @@ Key feauture:
 
 Download
 --------
-Download [the latest apk][1] via Google Play https://play.google.com/store/apps/details?id=com.antares.jahamanga
+Download via Google Play https://play.google.com/store/apps/details?id=com.antares.jahamanga
 
 License
 =======
@@ -33,4 +33,3 @@ License
     limitations under the License.
 
 	
-[1] https://play.google.com/store/apps/details?id=com.antares.jahamanga
