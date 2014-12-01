@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">&quot;Jaha Manga&quot;</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="search_hint">Keyword</string>
+    <string name="action_about">About</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="drawer_close">Close</string>
+    <string name="drawer_open">Open</string>
+    <string name="loading_progress">Loading</string>
+    <string name="loading_failed">Loading Failed</string>
+    <string name="loading_empty">Loading Empty</string>
+    <string name="search_empty">Manga Not Found</string>
+    <string name="button_load_more">Load Again</string>
+    
+    
+    <string-array name="jazzy_effects">
+        <item>Standard</item>
+        <item>Tablet</item>
+        <item>CubeIn</item>
+        <item>CubeOut</item>
+        <item>FlipVertical</item>
+        <item>FlipHorizontal</item>
+        <item>Stack</item>
+        <item>ZoomIn</item>
+        <item>ZoomOut</item>
+        <item>RotateUp</item>
+        <item>RotateDown</item>
+        <item>Accordion</item>
+    </string-array>
+<string name="action_download">Download (Beta)</string>
+<string name="action_add_to_fav">Add To Favourite Chapter</string>
+</resources>

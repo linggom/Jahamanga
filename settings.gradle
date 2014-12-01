@@ -1,0 +1,3 @@
+include ':MangaReader'
+include ':IPhotoView'
+include ':Lab4CommonProject'

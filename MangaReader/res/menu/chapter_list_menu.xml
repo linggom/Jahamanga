@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_download"
+        android:showAsAction="always"
+        android:title="@string/action_download"/>
+    <item
+        android:id="@+id/action_add_to_fav"
+        android:icon="@drawable/ic_action_overflow"
+        android:showAsAction="always"
+        android:title="@string/action_add_to_fav">
+    </item>
+
+</menu>

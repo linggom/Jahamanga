@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="blue_focus">#3498db</color>
+    <color name="blue_unfocus">#2980b9</color>
+    <color name="blue_light">#3fc2d7</color>
+    <color name="holo_blue">#FF33E5B5</color>
+    <color name="background_color_default">#999999</color>
+
+</resources>
